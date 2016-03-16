@@ -1,7 +1,7 @@
 # CS221Project-UCI2016W
 A prototype search engine is built, limited to the subdomain of ics.uci.edu. 
 
-![alt tag](https://github.com/oldsui/CS221Project-UCI2016W/tree/master/screenshots/HomePage.PNG)
+![alt tag](https://raw.githubusercontent.com/oldsui/CS221Project-UCI2016W/master/screenshots/HomePage.PNG)
 
 Pages crawled, indexing data and other large files are not included.
 
