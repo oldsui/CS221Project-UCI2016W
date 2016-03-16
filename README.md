@@ -40,7 +40,9 @@ One click testing NDCG@5 (by cliking 'NDCG_TEST', ideal pages are results from G
 
 Team members:
 Feng Hong
+
 Rui Liu
+
 Yanjun Liu
 
 
