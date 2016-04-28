@@ -1,5 +1,5 @@
 # CS221Project-UCI2016W
-A prototype search engine is built, limited to the subdomain of ics.uci.edu. 
+A search engine prototype is built, limited to the domain of ics.uci.edu. 
 
 
 
