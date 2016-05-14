@@ -32,11 +32,6 @@ Query Example (by cliking 'Go'):
 ![alt tag](https://raw.githubusercontent.com/oldsui/CS221Project-UCI2016W/master/screenshots/SearchResultsSnippets.PNG)
 
 
-One click testing NDCG@5 (by cliking 'NDCG_TEST', ideal pages are results from Google):
-
-![alt tag](https://raw.githubusercontent.com/oldsui/CS221Project-UCI2016W/master/screenshots/NDCG_Test_Result.PNG)
-
-
 
 Team members:
 
