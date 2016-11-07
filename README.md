@@ -33,8 +33,4 @@ Query Example (by cliking 'Go'):
 
 
 
-Team members:
-
-Feng Hong, Rui Liu, Yanjun Liu
-
 
